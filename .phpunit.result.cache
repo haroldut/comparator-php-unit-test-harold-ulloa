@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":145:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:37:"MatchScoreComparatorTest::testCompare";d:0.002;s:36:"MatchScoreComparatorTest::testEquals";d:0;}}}
